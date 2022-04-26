@@ -1,0 +1,15 @@
+#menuLateralPrincipal header{
+    height: 70px;
+    background-color: orange;
+    text-align: center;
+    font-size: 20pt;
+    line-height: 100%;
+    box-shadow: 0 2px;
+
+    
+}
+
+#menuLateralPrincipal {
+    width: 16.2%;
+    background-color: white;
+}
