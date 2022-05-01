@@ -406,6 +406,11 @@ input#inputShownContentConteudoResumo:checked~#myReadMore p {
     color: rgb(104, 102, 102);
 }
 
+.botaoCriarTopico{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
 .botaoCriarTopico a{
     background-color: #f28a3a;
     border: none;
