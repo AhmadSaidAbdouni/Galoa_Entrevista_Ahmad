@@ -406,6 +406,23 @@ input#inputShownContentConteudoResumo:checked~#myReadMore p {
     color: rgb(104, 102, 102);
 }
 
+.botaoCriarTopico a{
+    background-color: #f28a3a;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Quicksand, sans-serif;
+    font-weight: bold;
+    transition-duration: 0.4s;
+}
+
+.botaoCriarTopico a:hover {
+    background-color: #fca35f;
+}
+
 /*Conteudo 4*/
 
 .conteudo4 {
